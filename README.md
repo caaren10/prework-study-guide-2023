@@ -1,2 +1,21 @@
-# prework-study-guide-2023
-A study guide for coding bootcamp pre-work 2023
+# <Prework Study Guide 2023>
+
+## Description
+
+This application is a Preowrk Study Guide from the Coding Bootcamp 2023. The notes come from the premodules assigned. This applicaion was coded using a macbook terminal, VS Code and all updates to the code is on GitHub. This application will serve as a study guide, or something to refer back to as I progress through this bootcmap. I learned hot wo code a website using HTML, CSS, and Javascript. 
+
+## Installation
+
+N/A
+
+## Usage
+
+To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+
+## Credits
+
+N/A
+
+## License
+
+Please refer to the LICENSE in the repo.
